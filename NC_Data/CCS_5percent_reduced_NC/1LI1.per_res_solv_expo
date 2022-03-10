@@ -1,0 +1,261 @@
+core.init: Checking for fconfig files in pwd and ./rosetta/flags 
+core.init: Rosetta version: 2022.06.post.dev+53.smturzo.projection2dparcs.ffec319 ffec3198e357d5d8903132350db8729d7da065c9 git@github.com:RosettaCommons/main.git 2022-02-24T09:36:46
+core.init: command: per_residue_solvent_exposure.linuxgccrelease -sphere_method -in:file:s 1LI1.pdb
+basic.random.init_random_generator: 'RNG device' seed mode, using '/dev/urandom', seed=-1314215710 seed_offset=0 real_seed=-1314215710
+basic.random.init_random_generator: RandomGenerator:init: Normal mode, seed=-1314215710 RG_type=mt19937
+core.init: Resolved executable path: /home/cbc-lindert-group1/data/turzo.1/Rosetta/Rosetta/main/source/build/src/release/linux/3.10/64/x86/gcc/4.8/default/per_residue_solvent_exposure.default.linuxgccrelease
+core.init: Looking for database based on location of executable: /home/cbc-lindert-group1/data/turzo.1/Rosetta/Rosetta/main/database/
+core.chemical.GlobalResidueTypeSet: Finished initializing fa_standard residue type set.  Created 983 residue types
+core.chemical.GlobalResidueTypeSet: Total time to initialize 1.86 seconds.
+core.import_pose.import_pose: File '1LI1.pdb' automatically determined to be of type PDB
+core.conformation.Conformation: Found disulfide between residues 18 109
+core.conformation.Conformation: current variant for 18 CYS
+core.conformation.Conformation: current variant for 109 CYS
+core.conformation.Conformation: current variant for 18 CYD
+core.conformation.Conformation: current variant for 109 CYD
+core.conformation.Conformation: Found disulfide between residues 51 106
+core.conformation.Conformation: current variant for 51 CYS
+core.conformation.Conformation: current variant for 106 CYS
+core.conformation.Conformation: current variant for 51 CYD
+core.conformation.Conformation: current variant for 106 CYD
+core.conformation.Conformation: Found disulfide between residues 128 223
+core.conformation.Conformation: current variant for 128 CYS
+core.conformation.Conformation: current variant for 223 CYS
+core.conformation.Conformation: current variant for 128 CYD
+core.conformation.Conformation: current variant for 223 CYD
+core.conformation.Conformation: Found disulfide between residues 162 220
+core.conformation.Conformation: current variant for 162 CYS
+core.conformation.Conformation: current variant for 220 CYS
+core.conformation.Conformation: current variant for 162 CYD
+core.conformation.Conformation: current variant for 220 CYD
+core.conformation.Conformation: Found disulfide between residues 174 180
+core.conformation.Conformation: current variant for 174 CYS
+core.conformation.Conformation: current variant for 180 CYS
+core.conformation.Conformation: current variant for 174 CYD
+core.conformation.Conformation: current variant for 180 CYD
+apps.public.analysis.per_residue_solvent_exposure: D 1 5.5387
+apps.public.analysis.per_residue_solvent_exposure: H 2 9.03076
+apps.public.analysis.per_residue_solvent_exposure: G 3 7.92796
+apps.public.analysis.per_residue_solvent_exposure: F 4 12.5736
+apps.public.analysis.per_residue_solvent_exposure: L 5 16.7008
+apps.public.analysis.per_residue_solvent_exposure: V 6 21.181
+apps.public.analysis.per_residue_solvent_exposure: T 7 22.7569
+apps.public.analysis.per_residue_solvent_exposure: R 8 22.4796
+apps.public.analysis.per_residue_solvent_exposure: H 9 21.435
+apps.public.analysis.per_residue_solvent_exposure: S 10 17.3767
+apps.public.analysis.per_residue_solvent_exposure: Q 11 18.5613
+apps.public.analysis.per_residue_solvent_exposure: T 12 15.6891
+apps.public.analysis.per_residue_solvent_exposure: I 13 14.4554
+apps.public.analysis.per_residue_solvent_exposure: D 14 10.0869
+apps.public.analysis.per_residue_solvent_exposure: D 15 12.8256
+apps.public.analysis.per_residue_solvent_exposure: P 16 14.3078
+apps.public.analysis.per_residue_solvent_exposure: Q 17 11.8133
+apps.public.analysis.per_residue_solvent_exposure: C 18 14.7413
+apps.public.analysis.per_residue_solvent_exposure: P 19 11.4233
+apps.public.analysis.per_residue_solvent_exposure: S 20 7.13494
+apps.public.analysis.per_residue_solvent_exposure: G 21 8.47907
+apps.public.analysis.per_residue_solvent_exposure: T 22 13.9856
+apps.public.analysis.per_residue_solvent_exposure: K 23 12.7699
+apps.public.analysis.per_residue_solvent_exposure: I 24 14.0286
+apps.public.analysis.per_residue_solvent_exposure: L 25 12.1087
+apps.public.analysis.per_residue_solvent_exposure: Y 26 12.3648
+apps.public.analysis.per_residue_solvent_exposure: H 27 15.2825
+apps.public.analysis.per_residue_solvent_exposure: G 28 16.9194
+apps.public.analysis.per_residue_solvent_exposure: Y 29 19.6214
+apps.public.analysis.per_residue_solvent_exposure: S 30 22.0358
+apps.public.analysis.per_residue_solvent_exposure: L 31 21.6807
+apps.public.analysis.per_residue_solvent_exposure: L 32 21.0849
+apps.public.analysis.per_residue_solvent_exposure: Y 33 19.1785
+apps.public.analysis.per_residue_solvent_exposure: V 34 18.0639
+apps.public.analysis.per_residue_solvent_exposure: Q 35 18.779
+apps.public.analysis.per_residue_solvent_exposure: G 36 14.4106
+apps.public.analysis.per_residue_solvent_exposure: N 37 9.34684
+apps.public.analysis.per_residue_solvent_exposure: E 38 11.159
+apps.public.analysis.per_residue_solvent_exposure: R 39 11.4126
+apps.public.analysis.per_residue_solvent_exposure: A 40 14.4151
+apps.public.analysis.per_residue_solvent_exposure: H 41 12.0638
+apps.public.analysis.per_residue_solvent_exposure: G 42 14.6739
+apps.public.analysis.per_residue_solvent_exposure: Q 43 15.8457
+apps.public.analysis.per_residue_solvent_exposure: D 44 17.0453
+apps.public.analysis.per_residue_solvent_exposure: L 45 21.5109
+apps.public.analysis.per_residue_solvent_exposure: G 46 20.7634
+apps.public.analysis.per_residue_solvent_exposure: T 47 16.8408
+apps.public.analysis.per_residue_solvent_exposure: A 48 15.3052
+apps.public.analysis.per_residue_solvent_exposure: G 49 12.076
+apps.public.analysis.per_residue_solvent_exposure: S 50 18.7438
+apps.public.analysis.per_residue_solvent_exposure: C 51 20.6183
+apps.public.analysis.per_residue_solvent_exposure: L 52 15.8754
+apps.public.analysis.per_residue_solvent_exposure: R 53 11.1879
+apps.public.analysis.per_residue_solvent_exposure: K 54 9.23972
+apps.public.analysis.per_residue_solvent_exposure: F 55 14.189
+apps.public.analysis.per_residue_solvent_exposure: S 56 15.481
+apps.public.analysis.per_residue_solvent_exposure: T 57 19.1805
+apps.public.analysis.per_residue_solvent_exposure: M 58 17.1243
+apps.public.analysis.per_residue_solvent_exposure: P 59 14.3872
+apps.public.analysis.per_residue_solvent_exposure: F 60 12.7936
+apps.public.analysis.per_residue_solvent_exposure: L 61 13.4211
+apps.public.analysis.per_residue_solvent_exposure: F 62 11.8596
+apps.public.analysis.per_residue_solvent_exposure: C 63 9.03117
+apps.public.analysis.per_residue_solvent_exposure: N 64 6.80984
+apps.public.analysis.per_residue_solvent_exposure: I 65 7.60936
+apps.public.analysis.per_residue_solvent_exposure: N 66 6.70343
+apps.public.analysis.per_residue_solvent_exposure: N 67 8.93658
+apps.public.analysis.per_residue_solvent_exposure: V 68 9.22692
+apps.public.analysis.per_residue_solvent_exposure: C 69 7.76255
+apps.public.analysis.per_residue_solvent_exposure: N 70 11.1997
+apps.public.analysis.per_residue_solvent_exposure: F 71 12.946
+apps.public.analysis.per_residue_solvent_exposure: A 72 13.871
+apps.public.analysis.per_residue_solvent_exposure: S 73 9.36411
+apps.public.analysis.per_residue_solvent_exposure: R 74 10.7704
+apps.public.analysis.per_residue_solvent_exposure: N 75 11.068
+apps.public.analysis.per_residue_solvent_exposure: D 76 16.1857
+apps.public.analysis.per_residue_solvent_exposure: Y 77 19.7055
+apps.public.analysis.per_residue_solvent_exposure: S 78 21.716
+apps.public.analysis.per_residue_solvent_exposure: Y 79 21.9252
+apps.public.analysis.per_residue_solvent_exposure: W 80 21.6108
+apps.public.analysis.per_residue_solvent_exposure: L 81 20.9024
+apps.public.analysis.per_residue_solvent_exposure: S 82 20.3434
+apps.public.analysis.per_residue_solvent_exposure: T 83 17.5466
+apps.public.analysis.per_residue_solvent_exposure: P 84 12.2339
+apps.public.analysis.per_residue_solvent_exposure: E 85 10.1365
+apps.public.analysis.per_residue_solvent_exposure: P 86 7.89989
+apps.public.analysis.per_residue_solvent_exposure: M 87 11.8481
+apps.public.analysis.per_residue_solvent_exposure: P 88 9.4752
+apps.public.analysis.per_residue_solvent_exposure: M 89 6.69513
+apps.public.analysis.per_residue_solvent_exposure: S 90 6.51684
+apps.public.analysis.per_residue_solvent_exposure: M 91 10.839
+apps.public.analysis.per_residue_solvent_exposure: A 92 9.35939
+apps.public.analysis.per_residue_solvent_exposure: P 93 13.1143
+apps.public.analysis.per_residue_solvent_exposure: I 94 15.2704
+apps.public.analysis.per_residue_solvent_exposure: T 95 12.2383
+apps.public.analysis.per_residue_solvent_exposure: G 96 12.1528
+apps.public.analysis.per_residue_solvent_exposure: E 97 7.48956
+apps.public.analysis.per_residue_solvent_exposure: N 98 10.443
+apps.public.analysis.per_residue_solvent_exposure: I 99 16.5026
+apps.public.analysis.per_residue_solvent_exposure: R 100 13.9443
+apps.public.analysis.per_residue_solvent_exposure: P 101 12.5873
+apps.public.analysis.per_residue_solvent_exposure: F 102 18.1958
+apps.public.analysis.per_residue_solvent_exposure: I 103 20.6412
+apps.public.analysis.per_residue_solvent_exposure: S 104 21.1296
+apps.public.analysis.per_residue_solvent_exposure: R 105 20.5766
+apps.public.analysis.per_residue_solvent_exposure: C 106 21.8177
+apps.public.analysis.per_residue_solvent_exposure: A 107 20.951
+apps.public.analysis.per_residue_solvent_exposure: V 108 20.1824
+apps.public.analysis.per_residue_solvent_exposure: C 109 19.1153
+apps.public.analysis.per_residue_solvent_exposure: E 110 16.597
+apps.public.analysis.per_residue_solvent_exposure: A 111 17.3266
+apps.public.analysis.per_residue_solvent_exposure: P 112 12.678
+apps.public.analysis.per_residue_solvent_exposure: A 113 12.8534
+apps.public.analysis.per_residue_solvent_exposure: M 114 13.1129
+apps.public.analysis.per_residue_solvent_exposure: V 115 18.2808
+apps.public.analysis.per_residue_solvent_exposure: M 116 18.4148
+apps.public.analysis.per_residue_solvent_exposure: A 117 20.3133
+apps.public.analysis.per_residue_solvent_exposure: V 118 18.36
+apps.public.analysis.per_residue_solvent_exposure: H 119 17.671
+apps.public.analysis.per_residue_solvent_exposure: S 120 16.366
+apps.public.analysis.per_residue_solvent_exposure: Q 121 17.12
+apps.public.analysis.per_residue_solvent_exposure: T 122 15.778
+apps.public.analysis.per_residue_solvent_exposure: I 123 12.1592
+apps.public.analysis.per_residue_solvent_exposure: Q 124 9.64676
+apps.public.analysis.per_residue_solvent_exposure: I 125 12.9534
+apps.public.analysis.per_residue_solvent_exposure: P 126 13.4088
+apps.public.analysis.per_residue_solvent_exposure: P 127 10.8945
+apps.public.analysis.per_residue_solvent_exposure: C 128 13.167
+apps.public.analysis.per_residue_solvent_exposure: P 129 9.53952
+apps.public.analysis.per_residue_solvent_exposure: S 130 6.59016
+apps.public.analysis.per_residue_solvent_exposure: G 131 8.12275
+apps.public.analysis.per_residue_solvent_exposure: W 132 12.9583
+apps.public.analysis.per_residue_solvent_exposure: S 133 12.5038
+apps.public.analysis.per_residue_solvent_exposure: S 134 13.3431
+apps.public.analysis.per_residue_solvent_exposure: L 135 14.7166
+apps.public.analysis.per_residue_solvent_exposure: W 136 14.884
+apps.public.analysis.per_residue_solvent_exposure: I 137 14.519
+apps.public.analysis.per_residue_solvent_exposure: G 138 16.9285
+apps.public.analysis.per_residue_solvent_exposure: Y 139 19.9556
+apps.public.analysis.per_residue_solvent_exposure: S 140 21.4533
+apps.public.analysis.per_residue_solvent_exposure: F 141 21.7746
+apps.public.analysis.per_residue_solvent_exposure: V 142 16.9656
+apps.public.analysis.per_residue_solvent_exposure: M 143 15.7602
+apps.public.analysis.per_residue_solvent_exposure: H 144 17.7133
+apps.public.analysis.per_residue_solvent_exposure: T 145 16.2533
+apps.public.analysis.per_residue_solvent_exposure: S 146 16.2028
+apps.public.analysis.per_residue_solvent_exposure: A 147 13.1281
+apps.public.analysis.per_residue_solvent_exposure: G 148 8.42252
+apps.public.analysis.per_residue_solvent_exposure: A 149 8.34946
+apps.public.analysis.per_residue_solvent_exposure: E 150 12.678
+apps.public.analysis.per_residue_solvent_exposure: G 151 16.1431
+apps.public.analysis.per_residue_solvent_exposure: S 152 13.5968
+apps.public.analysis.per_residue_solvent_exposure: G 153 15.1019
+apps.public.analysis.per_residue_solvent_exposure: Q 154 16.7455
+apps.public.analysis.per_residue_solvent_exposure: A 155 12.65
+apps.public.analysis.per_residue_solvent_exposure: L 156 15.5394
+apps.public.analysis.per_residue_solvent_exposure: A 157 12.4818
+apps.public.analysis.per_residue_solvent_exposure: S 158 17.2973
+apps.public.analysis.per_residue_solvent_exposure: P 159 21.8795
+apps.public.analysis.per_residue_solvent_exposure: G 160 21.2947
+apps.public.analysis.per_residue_solvent_exposure: S 161 21.7806
+apps.public.analysis.per_residue_solvent_exposure: C 162 22.9148
+apps.public.analysis.per_residue_solvent_exposure: L 163 20.4944
+apps.public.analysis.per_residue_solvent_exposure: E 164 14.3047
+apps.public.analysis.per_residue_solvent_exposure: E 165 12.264
+apps.public.analysis.per_residue_solvent_exposure: F 166 15.096
+apps.public.analysis.per_residue_solvent_exposure: R 167 13.6976
+apps.public.analysis.per_residue_solvent_exposure: S 168 12.587
+apps.public.analysis.per_residue_solvent_exposure: A 169 13.4493
+apps.public.analysis.per_residue_solvent_exposure: P 170 17.5801
+apps.public.analysis.per_residue_solvent_exposure: F 171 19.9749
+apps.public.analysis.per_residue_solvent_exposure: I 172 20.9467
+apps.public.analysis.per_residue_solvent_exposure: E 173 20.8092
+apps.public.analysis.per_residue_solvent_exposure: C 174 21.2953
+apps.public.analysis.per_residue_solvent_exposure: H 175 17.856
+apps.public.analysis.per_residue_solvent_exposure: G 176 16.6806
+apps.public.analysis.per_residue_solvent_exposure: R 177 11.886
+apps.public.analysis.per_residue_solvent_exposure: G 178 14.5072
+apps.public.analysis.per_residue_solvent_exposure: T 179 16.3075
+apps.public.analysis.per_residue_solvent_exposure: C 180 20.1206
+apps.public.analysis.per_residue_solvent_exposure: N 181 17.9711
+apps.public.analysis.per_residue_solvent_exposure: Y 182 16.3985
+apps.public.analysis.per_residue_solvent_exposure: Y 183 12.8594
+apps.public.analysis.per_residue_solvent_exposure: A 184 8.58793
+apps.public.analysis.per_residue_solvent_exposure: N 185 9.62351
+apps.public.analysis.per_residue_solvent_exposure: A 186 14.2371
+apps.public.analysis.per_residue_solvent_exposure: Y 187 13.0614
+apps.public.analysis.per_residue_solvent_exposure: S 188 16.7808
+apps.public.analysis.per_residue_solvent_exposure: F 189 16.9344
+apps.public.analysis.per_residue_solvent_exposure: W 190 19.6739
+apps.public.analysis.per_residue_solvent_exposure: L 191 19.0124
+apps.public.analysis.per_residue_solvent_exposure: A 192 17.3417
+apps.public.analysis.per_residue_solvent_exposure: T 193 16.6611
+apps.public.analysis.per_residue_solvent_exposure: I 194 13.7072
+apps.public.analysis.per_residue_solvent_exposure: E 195 9.67094
+apps.public.analysis.per_residue_solvent_exposure: R 196 9.82423
+apps.public.analysis.per_residue_solvent_exposure: S 197 7.57201
+apps.public.analysis.per_residue_solvent_exposure: E 198 9.41046
+apps.public.analysis.per_residue_solvent_exposure: M 199 11.5998
+apps.public.analysis.per_residue_solvent_exposure: F 200 7.11328
+apps.public.analysis.per_residue_solvent_exposure: K 201 6.37914
+apps.public.analysis.per_residue_solvent_exposure: K 202 7.27698
+apps.public.analysis.per_residue_solvent_exposure: P 203 7.15204
+apps.public.analysis.per_residue_solvent_exposure: T 204 9.25623
+apps.public.analysis.per_residue_solvent_exposure: P 205 8.31834
+apps.public.analysis.per_residue_solvent_exposure: S 206 12.9329
+apps.public.analysis.per_residue_solvent_exposure: T 207 11.3752
+apps.public.analysis.per_residue_solvent_exposure: L 208 13.5909
+apps.public.analysis.per_residue_solvent_exposure: K 209 8.92145
+apps.public.analysis.per_residue_solvent_exposure: A 210 7.74812
+apps.public.analysis.per_residue_solvent_exposure: G 211 6.45171
+apps.public.analysis.per_residue_solvent_exposure: E 212 8.53291
+apps.public.analysis.per_residue_solvent_exposure: L 213 12.8021
+apps.public.analysis.per_residue_solvent_exposure: R 214 12.3558
+apps.public.analysis.per_residue_solvent_exposure: T 215 10.5678
+apps.public.analysis.per_residue_solvent_exposure: H 216 14.3253
+apps.public.analysis.per_residue_solvent_exposure: V 217 18.8908
+apps.public.analysis.per_residue_solvent_exposure: S 218 20.2727
+apps.public.analysis.per_residue_solvent_exposure: R 219 20.3854
+apps.public.analysis.per_residue_solvent_exposure: C 220 20.7567
+apps.public.analysis.per_residue_solvent_exposure: Q 221 20.1035
+apps.public.analysis.per_residue_solvent_exposure: V 222 20.7267
+apps.public.analysis.per_residue_solvent_exposure: C 223 19.1402
+apps.public.analysis.per_residue_solvent_exposure: M 224 18.6625
+apps.public.analysis.per_residue_solvent_exposure: R 225 13.9269
+apps.public.analysis.per_residue_solvent_exposure: R 226 9.63406
