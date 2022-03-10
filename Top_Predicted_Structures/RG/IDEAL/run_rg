@@ -1,0 +1,1 @@
+score.default.linuxgccrelease -in:file:l pdblist -score:weights /home/cbc-lindert-group1/data/turzo.1/CCS/CATH/NEW_IDEAL_DATASET/RESCORE/rg_score.wts
