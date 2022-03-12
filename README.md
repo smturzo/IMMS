@@ -20,7 +20,7 @@
 
 - The file rgs\_with\_reduced\_ccs\_data\_and\_of\_native is a comma separated file containg the radius of gyration for all the models predicted with IM for the 60 proteins in the Ideal dataset when the CCS was not reduced (0), and when it was reduced by 2%, 5%, 10%, 20%, and 30%. It also contains the radius of gyration for the native crstal structures.
 
-## **Paper_Figures**
+## **Paper\_Figures**
 
 
-##	**Top_Predicted_Structures**
+##	**Top\_Predicted\_Structures**
