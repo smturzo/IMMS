@@ -21,6 +21,7 @@
 - The file rgs\_with\_reduced\_ccs\_data\_and\_of\_native is a comma separated file containg the radius of gyration for all the models predicted with IM for the 60 proteins in the Ideal dataset when the CCS was not reduced (0), and when it was reduced by 2%, 5%, 10%, 20%, and 30%. It also contains the radius of gyration for the native crstal structures\.
 
 ## **Paper\_Figures**
-##### This directory has the all the python scripts to regenerate Figures 2-6 and Figures S1-S3 in their appropriate directory\.
+##### This directory has the all the python scripts to regenerate Figures 2-6 and Figures S1-S3 in their appropriate directory\. Furthermore this directory has the directory Exp\_Score\_File\_Pnear\_Results and Ideal\_Score\_File\_Pnear\_Results. These two folders contain all raw data from structure prediction results for both the experimental and ideal dataset. This also contains the RG scores from the proxy score functions for both the experimental and ideal dataset.  
+
 	
 ##	**Top\_Predicted\_Structures**
