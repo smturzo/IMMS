@@ -37,5 +37,6 @@
 	- AF : This folder is subdivided into 2 folders. One containing top AF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
 	- NATIVES : This folder is subdivided into 2 folders. One containing native crystal structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
 
-##	**Instruction to run PARCS**
-#### Note: Since PARCS (for predicting collision cross section in Rosetta) and IM (score structures with IM data) are new implementation of Rosetta, the users have access to these code through the developer agreement license of Rosetta. It will also be available with the next versio release of Rosetta\.
+##	**Instruction to run PARCS and IM Score function**
+##### Note 1: These instruction can also be found in the SI our paper "Protein shape sampled by ion mobility mass spectrometry consistently improves protein structure prediction"
+##### Note 2: Since PARCS (for predicting collision cross section in Rosetta) and IM (score structures with IM data) are new implementation of Rosetta, the users have access to these code through the developer agreement license of Rosetta. It will also be available with the next versio release of Rosetta\.
