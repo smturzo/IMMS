@@ -28,3 +28,11 @@
 
 	
 ##	**Top\_Predicted\_Structures**
+- This directory has the folders containing top predicted structures from Alphafold2 (AF), RoseTTAFold (RF), Rosetta Score Function (RS), Ion\-Mobility Score Function (IM), Proxy Score Function (RG) as well as the native crystal structures as reference in the folder NATIVES
+	- IM : This folder is subdivided into 2 folders. One containing top IM score predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- RS : This folder is subdivided into 2 folders. One containing top RS score predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- RG : This folder is subdivided into 2 folders. One containing top RG score predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- RF : This folder is subdivided into 2 folders. One containing top RF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- AF : This folder is subdivided into 2 folders. One containing top AF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- AF : This folder is subdivided into 2 folders. One containing top AF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+	- NATIVES : This folder is subdivided into 2 folders. One containing native crystal structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
