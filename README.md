@@ -27,7 +27,6 @@
 - Furthermore this directory has the directory Exp\_Score\_File\_Pnear\_Results and Ideal\_Score\_File\_Pnear\_Results\. 
 - These two folders contain all raw data from structure prediction results for both the experimental and ideal dataset\.
 	- This also contains the RG scores from the proxy score functions for both the experimental and ideal dataset\.  
-
 	
 ##	**Top\_Predicted\_Structures**
 - This directory has the folders containing top predicted structures from Alphafold2 (AF), RoseTTAFold (RF), Rosetta Score Function (RS), Ion\-Mobility Score Function (IM), Proxy Score Function (RG) as well as the native crystal structures as reference in the folder NATIVES
@@ -38,6 +37,10 @@
 	- AF : This folder is subdivided into 2 folders. One containing top AF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
 	- AF : This folder is subdivided into 2 folders. One containing top AF predicted structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
 	- NATIVES : This folder is subdivided into 2 folders. One containing native crystal structures for experimental dataset (EXP) and the other for ideal dataset (IDEAL)
+
+##   **Example_Data**
+
+##   **Example_Commands**
 
 ##	**Instruction to run PARCS and IM Score function**
 ##### Note 1: These instruction can also be found in the SI our paper "Protein shape sampled by ion mobility mass spectrometry consistently improves protein structure prediction"
