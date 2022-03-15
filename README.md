@@ -26,7 +26,7 @@
 - This directory has the all the python scripts to regenerate Figures 2-6 and Figures S1-S3 in their appropriate directory\. 
 - Furthermore this directory has the directory Exp\_Score\_File\_Pnear\_Results and Ideal\_Score\_File\_Pnear\_Results\. 
 	- These two folders contain all raw data from structure prediction results for both the experimental and ideal dataset\.
-	- This also contains the RG scores from the proxy score functions for both the experimental and ideal dataset\.  
+	- These two folders also contains the RG scores from the proxy score functions for both the experimental and ideal dataset\.  
 	
 ##	**Top\_Predicted\_Structures**
 - This directory has the folders containing top predicted structures from Alphafold2 (AF), RoseTTAFold (RF), Rosetta Score Function (RS), Ion\-Mobility Score Function (IM), Proxy Score Function (RG) as well as the native crystal structures as reference in the folder NATIVES
