@@ -28,7 +28,12 @@
 		- The FIG2 directory has the files : 
 			- impact_parcs_ccs_time.csv : This file contains CCS and Timing data of PARCS and IMPACT\.
 			- parcs_pred_exp_ccs.csv : This file contains predicted CCS from PARCS and experimental CCS for proteins in the experimental dataset\.
-			- std_dev_ccsparcs_randrot.csv : This file contains the average standard deviation data from varying random rotations for the PARCS evaluation dataset\.  
+			- std_dev_ccsparcs_randrot.csv : This file contains the average standard deviation data from varying random rotations for the PARCS evaluation dataset\.
+	- figure3_figure4.py : This script will regenerate Fig 3 a(i), a(ii), b(i), b(ii) in the directory FIG3. It will also regenerate Fig 4 a(i), a(ii) and c in FIG4 directory.
+		- The FIG3 directory also has:
+			- Blender images of native 2ZZQ, 3KYJ and 3VZ9 aligned to proxy score function predicted model, Rosetta score function predicted model and IM predicted model\. These images corresponds to panel c in Fig3\.
+		- The FIG4 directory also has:
+			- Blender images of native 3ENI aligned to AF predicted model and IM predicted model\. It also has Blender images of 4D6F aligned to RF predicted model and IM predicted model. All of these corresponds to panel b in Fig4\.	
 - Furthermore this directory has the directory Exp\_Score\_File\_Pnear\_Results and Ideal\_Score\_File\_Pnear\_Results\. 
 	- These two folders contain all raw data from structure prediction results for both the experimental and ideal dataset\.
 	- These two folders also contains the RG scores from the proxy score functions for both the experimental and ideal dataset\.  
