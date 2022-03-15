@@ -37,6 +37,9 @@
 	- figure5.py : This script will regenerate Fig 5 a(i), a(ii), b(i) and b(ii) in the directory FIG5.
 		- The FIG5 directory also has:
 			- Blender images of native 1QOY, 1VXG, and 1YTQ aligned their respective predicted model from proxy score function, Rosetta score function and IM score function. This images are used in panel c of Fig 5\.
+	- figure6a_figure6b.py : This script will regenerate Fig6 a_i_1qoy, a_i_1ytq, a_i_2mlt, a_i_1vxg, a_ii_1qoy, a_ii_1ytq, a_ii_2mlt, a_ii_1vxg, b_i, b_ii.
+		- The FIG6 directory also has:
+			- All scores (RS and IM) and RMSD and TMSCORE values for 1QOY, 1YTQ, 2MLT, 1VXG that were used to create the score vs rmsd and score vs TM-Score plots.
 - Furthermore this directory has the directory Exp\_Score\_File\_Pnear\_Results and Ideal\_Score\_File\_Pnear\_Results\. 
 	- These two folders contain all raw data from structure prediction results for both the experimental and ideal dataset\.
 	- These two folders also contains the RG scores from the proxy score functions for both the experimental and ideal dataset\.  
