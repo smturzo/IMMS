@@ -31,9 +31,9 @@
 			- std_dev_ccsparcs_randrot.csv : This file contains the average standard deviation data from varying random rotations for the PARCS evaluation dataset\.
 	- figure3_figure4\.py : This script will regenerate Fig 3 a(i), a(ii), b(i), b(ii) in the directory FIG3. It will also regenerate Fig 4 a(i), a(ii) and c in FIG4 directory.
 		- The FIG3 directory also has:
-			- Blender images of native 2ZZQ, 3KYJ and 3VZ9 aligned to proxy score function predicted model, Rosetta score function predicted model and IM predicted model\. These images corresponds to panel c in Fig. 3\.
+			- Blender images of native 2ZZQ, 3KYJ and 3VZ9 aligned to proxy score function predicted model, Rosetta score function predicted model and IM predicted model\. These images corresponds to panel c in Fig\. 3\.
 		- The FIG4 directory also has:
-			- Blender images of native 3ENI aligned to AF predicted model and IM predicted model\. It also has Blender images of 4D6F aligned to RF predicted model and IM predicted model. All of these corresponds to panel b in Fig. 4\.
+			- Blender images of native 3ENI aligned to AF predicted model and IM predicted model\. It also has Blender images of 4D6F aligned to RF predicted model and IM predicted model. All of these corresponds to panel b in Fig\. 4\.
 	-figure5\.py : This script will re-generate Fig 5 a(i), a(ii), b(i) and b(ii) in the directory FIG5\.
 		- The FIG5 directory also has:
 			- Blender images of native 1QOY, 1VXG, and 1YTQ aligned their respective predicted model from proxy score function, Rosetta score function and IM score function. This images are used in panel c of Fig. 5\.
