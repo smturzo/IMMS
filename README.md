@@ -6,6 +6,8 @@
 #####	**NC\_DATA** : This directory contains all the output files from the per\_residue\_solvent\_exposure application\.
 #####	**Paper\_Figures** : This directory contains all the scripts neccessary to regenerate the figures in the paper mention above\.
 #####	**Top\_Predicted\_Structures** : This directory contains all the top predicted structures from AlphaFold2, RoseTTAFold, Ion-Mobility Score Function, Rosetta Score Function, and  Proxy Score Function\.
+#####   **Example_Commands** : This directory contains example scripts that were used to run AlphaFold2, RoseTTAFold, and Rosetta (ab initio and comparative modleing) 
+#####   **Example_Data** : This directory contains the example data (zipped) for 3A1Y (PDB ID from the ideal dataset) on which rescoring with IM can be performed for reproducibility. 
 
 ## **NC\_DATA**
 ##### This directory has the folders and file
